@@ -45,7 +45,6 @@
 | Altern AI | [Altern AI](https://altern.ai/?ref=aidirectori.es) | [Submit](https://altern.ai/dash/submit?ref=aidirectori.es) | 25 | 180000 | **🟢 Good** | **🟢 Free** |
 | AlternativeTo | [AlternativeTo](https://alternativeto.net/?ref=aidirectori.es) | [Submit](https://alternativeto.net/manage-item/?ref=aidirectori.es) | 80 | 1300000 | **🟢 Good** | **🟢 Free** |
 | AlterOpen | [AlterOpen](https://alteropen.com/?ref=aidirectori.es) | [Submit](https://github.com/alteropen-com/alteropen/tree/main/content/app) | 0 | 0 | **🟢 Good** | **🟢 Free** |
-
 | Apps and Websites | [Apps and Websites](https://appsandwebsites.com/?ref=aidirectori.es) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html?ref=aidirectori.es) | 21 | 5000 | **🟢 Good** | **🟢 Free** |
 | Apps and Websites | [Apps and Websites](https://appsandwebsites.com/) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html) | 18 | 6000 | **🟢 Good** | **🟢 Free** |
 | Appscriber | [Appscriber](https://appscribed.com/) | [Submit](https://appscribed.com/product-list/?ref=aidirectori.es) | 34 | 42100 | **🟢 Good** | **🟢 Free** |
@@ -154,12 +153,5 @@
 | ToolsFine | [ToolsFine](https://toolsfine.com/?ref=aidirectories) | [Submit](https://tally.so/r/3qVzOG) | 38 | 34000 | **🟢 Good** | **🟢 Free** |
 | Top Apps AI | [Top Apps AI](https://topapps.ai/?ref=aidirectories) | [Submit](https://topapps.ai/submit?ref=aidirectories) | 32 | 890000 | **🟢 Good** | **🟢 Free** |
 | Unloc.tools | [Unloc.tools](https://www.unloc.tools/) | [Submit](https://www.unloc.tools/submit-tool) | 20 | 1000 | **🟢 Good** | **🟢 Free** |
-
-
-
-
 | Webwiki | [Webwiki](https://www.webwiki.com/) | [Submit](https://www.webwiki.com/info/add-website.html) | 77 | 15000 | **🟢 Good** | **🟢 Free** |
-
-
-
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/submit-a-tool/) | 28 | 50000 | **🟢 Good** | **🟢 Free** |
