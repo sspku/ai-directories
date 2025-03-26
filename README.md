@@ -137,14 +137,9 @@
 | Startups.fyi | [Startups.fyi](https://www.startups.fyi/?ref=aidirectori.es) | [Submit](https://tally.so/r/3lOGLk) | 25 | 13000 | **🟢 Good** | **🟢 Free** |
 | Super Tools | [Super Tools](https://supertools.therundown.ai/) | [Submit](https://supertools.therundown.ai/submit) | 20 | 380000 | **🟢 Good** | **🟢 Free** |
 | Synoptica | [Synoptica](https://synoptica.com/?ref=aidirectori.es) | [Submit](https://synoptica.com/submit-an-ai-tool/?ref=aidirectori.es) | 17 | 5000 | **🟢 Good** | **🟢 Free** |
-| Tekpon | [Tekpon](https://tekpon.com/get-listed/?ref=aidirectori.es) | [Submit](https://tekpon.com/get-listed/?ref=aidirectori.es) | 54 | 134000 | **🟢 Good** | **🟢 Free** |
-| The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | **🟢 Good** | **🟢 Free** |
-| The AI Warehouse | [The AI Warehouse](https://www.thewarehouse.ai/?ref=aidirectories) | [Submit](https://inside.thewarehouse.ai/submissions?ref=aidirectories) | 11 | 6000 | **🟢 Good** | **🟢 Free** |
+| The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | **🟢 Good** | **🟢 This** |
 | Tiny Startups | [Tiny Startups](https://www.tinystartups.co/?ref=aidirectori.es) | [Submit](https://tally.so/r/wMzP8X) | 4.4 | 100 | **🟢 Good** | **🟢 Free** |
 | TipSeason | [TipSeason](https://tipseason.com/ai-tools?ref=aidirectori.es) | [Submit](https://tipseason.com/ai-tools/submit) | 27 | 30000 | **🟢 Good** | **🟢 Free** |
-| Tool AI | [Tool AI](https://toolai.io/?ref=aidirectories) | [Submit](https://toolai.io/en/submit?ref=aidirectories) | 7 | 75000 | **🟢 Good** | **🟢 Free** |
-| Tool Directory | [Tool Directory](https://tooldirectory.ai/?ref=aidirectori.es) | [Submit](https://https://tooldirectory.ai/submit-tool?ref=aidirectori.es) | 50 | 4000 | **🟢 Good** | **🟢 Free** |
-| Tool Pilot | [Tool Pilot](https://www.toolpilot.ai/) | [Submit](https://www.toolpilot.ai/pages/submit-your-ai-tool) | 51 | 660000 | **🟢 Good** | **🟢 Free** |
 | Tools AI Online | [Tools AI Online](https://www.tools-ai.online/?ref=aidirectories) | [Submit](https://www.tools-ai.online/tool-submit?ref=aidirectories) | 11 | 67000 | **🟢 Good** | **🟢 Free** |
 | Tools Directory | [Tools Directory](https://aitoolsdirectory.com/?ref=aidirectori.es) | [Submit](https://aitoolsdirectory.com/submit-tool?ref=aidirectori.es) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | Tools.so | [Tools.so](https://tools.so/) | [Submit](https://tools.so/) | 15 | 1000 | **🟢 Good** | **🟢 Free** |
