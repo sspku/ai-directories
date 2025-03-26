@@ -147,11 +147,7 @@
 | Tool Pilot | [Tool Pilot](https://www.toolpilot.ai/) | [Submit](https://www.toolpilot.ai/pages/submit-your-ai-tool) | 51 | 660000 | **🟢 Good** | **🟢 Free** |
 | Tools AI Online | [Tools AI Online](https://www.tools-ai.online/?ref=aidirectories) | [Submit](https://www.tools-ai.online/tool-submit?ref=aidirectories) | 11 | 67000 | **🟢 Good** | **🟢 Free** |
 | Tools Directory | [Tools Directory](https://aitoolsdirectory.com/?ref=aidirectori.es) | [Submit](https://aitoolsdirectory.com/submit-tool?ref=aidirectori.es) | 10 | 100 | **🟢 Good** | **🟢 Free** |
-| Tools Nocode | [Tools Nocode](https://www.toolsnocode.com/ai) | [Submit](https://www.toolsnocode.com/ai#form1) | 10 | 5000 |  |  |
 | Tools.so | [Tools.so](https://tools.so/) | [Submit](https://tools.so/) | 15 | 1000 | **🟢 Good** | **🟢 Free** |
 | ToolScout | [ToolScout](https://toolscout.ai/) | [Submit](https://toolscout.ai/submit) | 10 | 23000 | **🟢 Good** | **🟢 Free** |
-| ToolsFine | [ToolsFine](https://toolsfine.com/?ref=aidirectories) | [Submit](https://tally.so/r/3qVzOG) | 38 | 34000 | **🟢 Good** | **🟢 Free** |
-| Top Apps AI | [Top Apps AI](https://topapps.ai/?ref=aidirectories) | [Submit](https://topapps.ai/submit?ref=aidirectories) | 32 | 890000 | **🟢 Good** | **🟢 Free** |
-| Unloc.tools | [Unloc.tools](https://www.unloc.tools/) | [Submit](https://www.unloc.tools/submit-tool) | 20 | 1000 | **🟢 Good** | **🟢 Free** |
 | Webwiki | [Webwiki](https://www.webwiki.com/) | [Submit](https://www.webwiki.com/info/add-website.html) | 77 | 15000 | **🟢 Good** | **🟢 Free** |
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/submit-a-tool/) | 28 | 50000 | **🟢 Good** | **🟢 Free** |
